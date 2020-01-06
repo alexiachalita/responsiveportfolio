@@ -75,10 +75,7 @@ margin-left: 10%;
     
 }
 
-  }
-
   .navbar {
-
     padding: 0;
   }
 
@@ -148,7 +145,7 @@ background-color: teal;
 
   }
 
-  @media (max-width: 767px) {
+  @media (max-width: 800px) {
   .navbar-brand {
 width: 40%;
 
