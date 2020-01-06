@@ -12,16 +12,15 @@ padding-bottom: 50px;
 
 }
 
-footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #666666;
-    color: white;
-    text-align: left;
-    border-top: 8px solid #4aaaa5;
-
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  border-top: 8px solid teal;
 }
 
 
@@ -29,7 +28,7 @@ footer {
 height: 90%;
 width: 1000px;
 position: relative;
-background: teal;
+background: white;
 margin-top: 50px;
 padding-top:30px;
 padding-left: 30px;
@@ -47,3 +46,41 @@ width: 90%;
     width: 100%;
     height: auto;
   }
+
+  body #alexianavbar {
+background-color: white !important;
+color: wheat !important;
+height: 100%;
+
+
+  }
+
+  body {
+background-color: lightgray;
+height: 100%;
+
+
+  }
+
+  .navbar-brand {
+background-color: teal;
+color: white !important;
+height: 100%;
+width: 15%;
+text-align: center;
+padding: 2% 1%;
+margin: 0;
+margin-left: 10%;
+
+  }
+
+  .navbar {
+
+    padding: 0;
+  }
+
+.boxset {
+
+border-right: 1px solid gray;
+
+}
